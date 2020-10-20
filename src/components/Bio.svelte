@@ -8,7 +8,7 @@
     width: 100px;
     height: 100px;
     border-radius: 100px;
-    /* border: 3px solid #fd6378; */
+    /* border: 3px solid #6c63ff; */
     display: block;
     margin-right: 20px;
   }
