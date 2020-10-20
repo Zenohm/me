@@ -7,7 +7,7 @@ ghpages.publish(
         repo: 'https://github.com/Zenohm/zenohm.github.io.git',
         user: {
             name: 'Zenohm',
-            email: 'Zenohm'
+            email: 'Zenohm@users.noreply.github.com'
         }
     },
     () => {
