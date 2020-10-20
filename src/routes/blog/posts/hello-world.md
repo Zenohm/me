@@ -1,12 +1,15 @@
 ---
-title: Hello World 👋
-date: "2019-06-11T08:38:00.000Z"
+title: Hello World
+date: "2020-10-20T18:56:31.931Z"
 ---
 
-Every blog starts with a single post. This is yours. Make it great.
+Those worlds often disappear immediately, to be replaced by something real.
+For a personal blog, they're the perfect intro.
 
 <!-- more -->
 
-This post intentionally left blank.
+Hello, World. It's me.
 
-Write what you want.
+Over the coming weeks, months, and years, I hope to make this place my own.
+
+The style of this page will change as I learn and build, but it will always represent me at some point in time.

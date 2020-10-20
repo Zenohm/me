@@ -61,17 +61,17 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Blog Template</title>
+  <title>Zenohm</title>
 </svelte:head>
 
 <div class="home-container">
   <div class="home-copy">
-    <h1>Welcome to your new Sapper Blog</h1>
-    <p>Check out the docs on <a href="https://www.github.com/Charca/sapper-blog-template" target="_blank">GitHub</a> to get started.</p>
+    <h1>Hello, I'm Zenohm</h1>
+    <p>I'm a fullstack developer and consultant.</p>
   </div>
 
   <figure>
-    <img alt='Person typing on laptop' src='undraw-illustration.svg'>
-    <figcaption>Illustration thanks to <a href="https://undraw.co" target="_blank">Undraw</a></figcaption>
+    <img alt='A man standing under a tree waiting for another man who is approaching.' src='undraw_Waiting__for_you_ldha.svg'>
+    <figcaption>Illustration thanks to <a href="https://undraw.co/" target="_blank">Undraw</a></figcaption>
   </figure>
 </div>
