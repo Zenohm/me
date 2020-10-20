@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Who wants the output values in source control?
+__sapper__
