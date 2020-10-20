@@ -47,7 +47,7 @@
   <footer>
     <span>
       &copy; {new Date().getFullYear()} Zenohm's Blog.
-      Powered by <a href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
+      Powered by <a rel="noreferrer" href="https://sapper.svelte.dev" target="_blank">Sapper</a>.
     </span>
   </footer>
 </div>

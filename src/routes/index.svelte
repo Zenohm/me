@@ -62,6 +62,8 @@
 
 <svelte:head>
   <title>Zenohm</title>
+  <meta name="Description" content="Zenohm's blog and portfolio of public projects." />
+  <link rel="apple-touch-icon" href="/coloringknot.svg">
 </svelte:head>
 
 <div class="home-container">
@@ -72,6 +74,6 @@
 
   <figure>
     <img alt='A man standing under a tree waiting for another man who is approaching.' src='undraw_Waiting__for_you_ldha.svg'>
-    <figcaption>Illustration thanks to <a href="https://undraw.co/" target="_blank">Undraw</a></figcaption>
+    <figcaption>Illustration thanks to <a rel="noreferrer" href="https://undraw.co/" target="_blank">Undraw</a></figcaption>
   </figure>
 </div>

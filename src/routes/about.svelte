@@ -25,7 +25,7 @@
   <h1>What is this?</h1>
   <figure>
     <img src='open-doodles-sitting-and-reading.svg' alt='Image of a man sitting and reading'>
-    <figcaption>Illustration from <a href="https://icons8.com/illustrations/author/5c3ecc70569980001df768e4" target="_blank">Pablo Marquez</a> on Icons8</figcaption>
+    <figcaption>Illustration from <a rel="noreferrer" href="https://icons8.com/illustrations/author/5c3ecc70569980001df768e4" target="_blank">Pablo Marquez</a> on Icons8</figcaption>
   </figure>
   <p>Everyone has ideas. Some people show others, and others keep them private.</p>
   <p>It's time for me to start putting myself and my ideas out there for others to see, appreciate, and think about.</p>
